@@ -23,7 +23,7 @@ kactivities
 kactivities-stats
 kstars
 ```
-All these packages will be 
+All these packages will be excluded from set blacklist
 
 ## Terminal Demo
 
@@ -271,7 +271,7 @@ diff -Naupr slackpkg/slackpkg.SlackBuild slackpkg-new/slackpkg.SlackBuild
 
 1. clone repo, exec SlackBuild, upgradepkg
 2. run slackpkg new-config 
-- keep you old `/etc/slackpkg/{mirrors,blacklist}` files
+- keep your old `/etc/slackpkg/{mirrors,blacklist}` files
 - update `slackpkg.conf --> slackpkg.conf.new`
 - add `slackpkg` to your blacklist
 3. slackpkg update

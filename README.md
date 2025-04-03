@@ -269,8 +269,12 @@ diff -Naupr slackpkg/slackpkg.SlackBuild slackpkg-new/slackpkg.SlackBuild
 
 ## Install
 
-clone repo, run SlackBuild, upgradepkg and run slackpkg new-config;slackpkg update <br>
-finally add slackpkg to blacklist
+1. clone repo, exec SlackBuild, upgradepkg
+2. run slackpkg new-config 
+- keep you old `/etc/slackpkg/{mirrors,blacklist}` files
+- update `slackpkg.conf --> slackpkg.conf.new`
+- add `slackpkg` to your blacklist
+3. slackpkg update
 
 ---
 

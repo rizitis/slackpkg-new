@@ -279,3 +279,12 @@ finally add slackpkg to blacklist
 Slackware is a [trademark](http://www.slackware.com/trademark/trademark.php) of Patrick Volkerding. <br>
 ©[Slackpkg](https://slackpkg.org/) Some Rights Reserved - Github [page](https://github.com/rworkman/slackpkg)
 
+---
+
+## Disclaimer
+
+This project is an independent modification or enhancement related to Slackpkg and is not officially affiliated with, endorsed by, or supported by the Slackware Linux Project or its developers. The code, scripts, or modifications provided are offered "as is" without any warranties, express or implied.
+
+Use this software at your own risk. The author(s) of this project are not responsible for any potential damage, data loss, security vulnerabilities, or system instability resulting from its use. Always review scripts and configurations before executing them and ensure you have proper backups in place.
+
+For official Slackpkg support and documentation, please refer to the official Slackware resources.

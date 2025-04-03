@@ -1,0 +1,15 @@
+*.tar
+*.tar.*
+*.jar
+*.exe
+*.msi
+*.zip
+*.tgz
+*.txz
+*.tgz
+core
+*.qss
+*kate-swp
+package-*
+.git/
+.directory

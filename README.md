@@ -280,7 +280,7 @@ diff -Naupr slackpkg/slackpkg.SlackBuild slackpkg-new/slackpkg.SlackBuild
 
 ### trademarks
 
-Slackware is a [trademark](http://www.slackware.com/trademark/trademark.php) of Patrick Volkerding. <br>
+Slackware™ is a [trademark](http://www.slackware.com/trademark/trademark.php) of Patrick Volkerding.  <br>
 ©[Slackpkg](https://slackpkg.org/) Some Rights Reserved - Github [page](https://github.com/rworkman/slackpkg)
 
 ---

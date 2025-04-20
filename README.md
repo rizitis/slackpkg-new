@@ -1,3 +1,8 @@
+![Image](https://github.com/user-attachments/assets/f00122c2-6532-459f-9ea1-8f05bc37e24f)
+
+---
+
+
 ## slackpkg-unofficial
 
 This is a **patched** version of slackpkg<br>
